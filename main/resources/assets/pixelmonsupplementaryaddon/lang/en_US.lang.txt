@@ -1,0 +1,1 @@
+item.ann_ticket.name=ann ticket
